@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Autorizeuser">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Client\Scripts\DBScripts\Autorizeuser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBConnection">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Client\Scripts\DBScripts\DBConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logging">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAIAAAAAAAIAAAAAQAAAAAAAAgEQAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Assets\Client\Scripts\DBScripts\Logging.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Registration">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAIAAAAAAAIAAAAAQAAAAAAAAAFQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Client\Scripts\DBScripts\Registration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveRecord">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Client\Scripts\DBScripts\SaveRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraFollow">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAACAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Client\Scripts\GameplayScripts\CameraFollow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneratorScript">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQBAAAQAyAAAACAAIAAAAAABQgAAAIAAAAAQCIBEAA=</HashCode>
+      <FileName>Assets\Client\Scripts\GameplayScripts\GeneratorScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LaserScript">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAiAAAEAAAAACAACAAAAAAAAAAABAAACAAAA=</HashCode>
+      <FileName>Assets\Client\Scripts\GameplayScripts\LaserScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MouseController">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAUBAIgAAiBEQAAIAAAAjAAQBUCBAAAMIACAAAgAAAA=</HashCode>
+      <FileName>Assets\Client\Scripts\GameplayScripts\MouseController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParallaxScroll">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAACAgAAAAAAAAAAAAAAAAAAAAAEAAAAAAIEA=</HashCode>
+      <FileName>Assets\Client\Scripts\GameplayScripts\ParallaxScroll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParticleSortingLayerFIx">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Client\Scripts\GameplayScripts\ParticleSortingLayerFIx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreScript">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAgAAAAAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Client\Scripts\UI\ScoreScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManager">
+    <Position X="4.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAQAAAACAAACAAACIAAAAAEAAAAIAAAAgAAAEA=</HashCode>
+      <FileName>Assets\Client\Scripts\UI\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="9.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
